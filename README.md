@@ -5,3 +5,6 @@
 [build-badge]: https://img.shields.io/travis/nsud/e1/master.png?style=flat-square
 
 [build]: https://travis-ci.org/nsud/e1
+
+
+Для начала игры необходимо запустить файл main.py
