@@ -1,3 +1,3 @@
-from visilica import common
+from viselica import common
 
 common()
